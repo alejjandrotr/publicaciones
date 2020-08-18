@@ -1,0 +1,28 @@
+table.table {
+    background-color: #fff;
+    font-size: small;
+    margin-top: 50px;
+
+}
+
+tbody tr{
+    cursor: pointer;
+}
+
+ul.pagination{
+    float: right;
+}
+
+p.comment-user {
+    margin-bottom:5px
+}
+p.comment-user span.name-user{
+    color: cornflowerblue;
+    font-weight: 700;
+
+    
+}
+
+blockquote footer{
+    font-size: 10px;
+}
